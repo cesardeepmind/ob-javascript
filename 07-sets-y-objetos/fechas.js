@@ -1,6 +1,6 @@
 const hoy = new Date()
 
-const fechanacimiento = new Date(1994, 04, 30)
+const fechanacimiento = new Date(1994, 03, 30)
 
 const comparacion = hoy > fechanacimiento
 
