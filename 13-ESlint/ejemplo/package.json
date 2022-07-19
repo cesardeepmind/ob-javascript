@@ -1,0 +1,17 @@
+{
+  "name": "ejemplo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejemplo.js",
+  "scripts": {
+    "lint": "eslint indexnpm.js",
+    "lint-fix": "eslint --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.20.0"
+  }
+}
